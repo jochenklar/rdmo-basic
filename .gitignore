@@ -1,0 +1,7 @@
+*~
+*-
+*.swp
+*.save
+.DS_Store
+
+/*.pdf
